@@ -1,0 +1,14 @@
+﻿<Application
+    x:Class="DMCookBook.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DMCookBook">
+
+    <Application.Resources>
+        <!-- Application-specific resources -->
+
+        <x:String x:Key="AppName">DM's CookBook</x:String>
+
+    </Application.Resources>
+
+</Application>

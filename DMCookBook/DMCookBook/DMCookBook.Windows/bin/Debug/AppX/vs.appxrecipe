@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DURGA</Machine>
+    <WindowsUser>ampm</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>bfe78db6-2adb-4346-9813-7b11d957a3a8</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A2\DMCookBook\DMCookBook\DMCookBook.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>58DA99A6C1FDE391878D93BBCD1B2DAC4779BA2373C64F88B89C75B0AFCE53F5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>bfe78db6-2adb-4346-9813-7b11d957a3a8_1.0.0.0_neutral__6mdm3q2gagn92</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>bfe78db6-2adb-4346-9813-7b11d957a3a8_6mdm3q2gagn92!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>bfe78db6-2adb-4346-9813-7b11d957a3a8</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=ampm</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A2\DMCookBook\DMCookBook\DMCookBook.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-18T01:58:05.344</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A2\DMCookBook\DMCookBook\DMCookBook.Windows\bin\Debug\DMCookBook.Windows.exe">
+      <PackagePath>DMCookBook.Windows.exe</PackagePath>
+      <Modified>2014-10-18T01:58:04.411</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A2\DMCookBook\DMCookBook\DMCookBook.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T17:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A2\DMCookBook\DMCookBook\DMCookBook.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T17:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A2\DMCookBook\DMCookBook\DMCookBook.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T17:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A2\DMCookBook\DMCookBook\DMCookBook.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T17:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A2\DMCookBook\DMCookBook\DMCookBook.Windows\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <Modified>2014-03-14T17:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A2\DMCookBook\DMCookBook\DMCookBook.Shared\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2014-03-14T17:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A2\DMCookBook\DMCookBook\DMCookBook.Shared\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2014-03-14T17:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A2\DMCookBook\DMCookBook\DMCookBook.Shared\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2014-03-14T17:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A2\DMCookBook\DMCookBook\DMCookBook.Shared\DataModel\SampleData.json">
+      <PackagePath>DataModel\SampleData.json</PackagePath>
+      <Modified>2014-10-18T00:55:53.154</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A2\DMCookBook\DMCookBook\DMCookBook.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-18T01:58:03.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A2\DMCookBook\DMCookBook\DMCookBook.Windows\bin\Debug\HubPage.xbf">
+      <PackagePath>HubPage.xbf</PackagePath>
+      <Modified>2014-10-18T01:58:03.833</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A2\DMCookBook\DMCookBook\DMCookBook.Windows\bin\Debug\SectionPage.xbf">
+      <PackagePath>SectionPage.xbf</PackagePath>
+      <Modified>2014-10-18T01:58:03.848</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A2\DMCookBook\DMCookBook\DMCookBook.Windows\bin\Debug\ItemPage.xbf">
+      <PackagePath>ItemPage.xbf</PackagePath>
+      <Modified>2014-10-18T01:58:03.848</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A2\DMCookBook\DMCookBook\DMCookBook.Windows\bin\Debug\DMCookBook.Windows.xr.xml">
+      <PackagePath>DMCookBook.Windows.xr.xml</PackagePath>
+      <Modified>2014-10-18T01:58:03.708</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\ampm\Desktop\dm-canada\CONESTOGA\MSD-2014-2015\fall-2014-sem-1\INFO8250-MobileAppDesign\Assignments\A2\DMCookBook\DMCookBook\DMCookBook.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-18T01:58:04.922</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
